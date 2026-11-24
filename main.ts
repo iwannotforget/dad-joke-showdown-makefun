@@ -5,10 +5,12 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-// The joke: a baker, a therapy couch, and one homophone doing all the work —
-// "kneads" lands as "needs" on the first read, and the punchline is the last
-// word, the way a dad would deliver it across the dinner table.
-const JOKE = "Why did the baker go to therapy? He had too many unmet kneads.";
+// The joke (round 2 revision, replacing the round 1 baker joke that placed
+// 1000 of 2868): a straight-faced domestic scene — a wife, a flamingo
+// impression — and one idiom doing double duty as the punchline: "put my
+// foot down" is both the dad standing his ground and the flamingo's famous
+// one-legged stance, so the groan lands on the very last word.
+const JOKE = "My wife asked me to stop impersonating a flamingo. I had to put my foot down.";
 
 const outDir = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(outDir, { recursive: true });

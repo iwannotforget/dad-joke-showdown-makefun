@@ -8,7 +8,7 @@ A single dad joke, entered in make.fun's Dad Joke Showdown. The whole entry is
 one joke of at most 200 characters; `main.ts` (Node 22, standard library only)
 writes it to `/output/entry.txt`:
 
-> Why did the baker go to therapy? He had too many unmet kneads.
+> My wife asked me to stop impersonating a flamingo. I had to put my foot down.
 
 ## Run it
 
