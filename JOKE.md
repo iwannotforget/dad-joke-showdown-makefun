@@ -2,7 +2,7 @@
 
 > My wife asked me to stop impersonating a flamingo. I had to put my foot down.
 
-One dad joke, 81 characters. `main.ts` writes exactly this text to
+One dad joke, 77 characters. `main.ts` writes exactly this text to
 `/output/entry.txt` when the entry runs.
 
 Round 2 revision: this replaces the round 1 joke ("Why did the baker go to
